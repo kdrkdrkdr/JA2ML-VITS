@@ -1,0 +1,74 @@
+datasets/kss/4/4_5558.wav|여름철에는 음식이 쉽게 상한다.
+datasets/kss/4/4_5559.wav|어떤 정부도 여론을 무시하고 존재할 수 없다.
+datasets/kss/4/4_5560.wav|우리는 두 시에 도착해서 한 시간 뒤에 떠났다.
+datasets/kss/4/4_5561.wav|어젯밤은 너무 취해서 아무것도 기억이 안 나요.
+datasets/kss/4/4_5562.wav|당신이 여성으로서는 처음 뽑힌 거라고 들었습니다.
+datasets/kss/4/4_5563.wav|남편은 저보다 여섯 살 어려요.
+datasets/kss/4/4_5564.wav|그들은 가난했지만 행복했다.
+datasets/kss/4/4_5565.wav|누가 자꾸 날 엿보는 기분이 들어요.
+datasets/kss/4/4_5566.wav|여자가 왜 여우나 곰과 상관이 있는 거예요?
+datasets/kss/4/4_5567.wav|오늘 여왕 같은데요.
+datasets/kss/4/4_5568.wav|건강해야 일도 할 수 있죠.
+datasets/kss/4/4_5569.wav|서두르지 마. 아직 여유 있어.
+datasets/kss/4/4_5570.wav|긴장하지 말고 여유를 가져.
+datasets/kss/4/4_5571.wav|이 옷 정말 예쁘지 않니?
+datasets/kss/4/4_5572.wav|예산이 부족한데 어떡하죠?
+datasets/kss/4/4_5573.wav|제 예상보다 훨씬 어려웠어요.
+datasets/kss/4/4_5574.wav|오늘 밤에는 소나기가 예상됩니다.
+datasets/kss/4/4_5575.wav|매년 오십 개 이상의 학교가 예선에 참가한다.
+datasets/kss/4/4_5576.wav|그 다음 장 예습해 오세요.
+datasets/kss/4/4_5577.wav|요즘에는 예식장 구하기가 하늘의 별 따기야.
+datasets/kss/4/4_5578.wav|저는 예술에 대해 아는 게 없어요.
+datasets/kss/4/4_5579.wav|백남준은 한국이 낳은 위대한 예술가였어요.
+datasets/kss/4/4_5580.wav|이 아이에게서 예술적 재능이 엿보입니다.
+datasets/kss/4/4_5581.wav|아버지는 예순이 넘으셨어요.
+datasets/kss/4/4_5582.wav|그 노래를 들으면 옛 추억이 떠오른다.
+datasets/kss/4/4_5583.wav|죄송하지만 예약을 취소하고 싶은데요.
+datasets/kss/4/4_5584.wav|돈이 없어요.
+datasets/kss/4/4_5585.wav|이 꽃은 참 빨리 자라네요.
+datasets/kss/4/4_5586.wav|요 근처 아무 데나 내려주세요.
+datasets/kss/4/4_5587.wav|요 며칠 동안 정말 바빴어요.
+datasets/kss/4/4_5588.wav|우리는 경찰에 도움을 요청했지만 소용이 없었다.
+datasets/kss/4/4_5589.wav|서울의 버스 요금은 얼마죠?
+datasets/kss/4/4_5590.wav|한국의 부모들은 자식들에게 너무 많은 것을 요구하는 것 같아요.
+datasets/kss/4/4_5591.wav|냉장고에서 요구르트 좀 꺼내 줄래?
+datasets/kss/4/4_5592.wav|엄마, 오늘이 무슨 요일이죠?
+datasets/kss/4/4_5593.wav|요즈음 어떻게 지내?
+datasets/kss/4/4_5594.wav|아이들 앞에서 욕하지 마세요.
+datasets/kss/4/4_5595.wav|오늘 아침 욕실에서 비누를 밟고 미끄러졌어요.
+datasets/kss/4/4_5596.wav|그 사람은 돈에 욕심이 많아요.
+datasets/kss/4/4_5597.wav|회사 차를 개인적인 용도로 사용하면 안 됩니다.
+datasets/kss/4/4_5598.wav|법률 용어를 보면 머리가 아파요.
+datasets/kss/4/4_5599.wav|걔 보기보다 용감하던데.
+datasets/kss/4/4_5600.wav|그 애에게 데이트 신청할 용기가 없어요.
+datasets/kss/4/4_5601.wav|제발 이번 한 번만 용서해 주세요.
+datasets/kss/4/4_5602.wav|엄마, 저 용돈 좀 올려 주시면 안 돼요?
+datasets/kss/4/4_5603.wav|저는 중국 요리가 좋아요.
+datasets/kss/4/4_5604.wav|미안하지만 지금은 요리하느라 너무 바빠요.
+datasets/kss/4/4_5605.wav|저희 부모님은 두 분 다 요리사세요.
+datasets/kss/4/4_5606.wav|요새 스트레스를 많이 받아요.
+datasets/kss/4/4_5607.wav|상황을 요약해서 설명해 줄래?
+datasets/kss/4/4_5608.wav|저는 유치원에서 한글을 배웠어요.
+datasets/kss/4/4_5609.wav|한국 사회는 유교에 바탕을 두고 있다.
+datasets/kss/4/4_5610.wav|올 여름은 칠십 년대 패션이 다시 유행하고 있어요.
+datasets/kss/4/4_5611.wav|한국에서의 유학 생활은 어때요?
+datasets/kss/4/4_5612.wav|우리 대학에는 외국인 유학생을 위한 한국어 강좌가 마련되어 있습니다.
+datasets/kss/4/4_5613.wav|이 문제는 많은 학생들이 틀리는 유형입니다.
+datasets/kss/4/4_5614.wav|떨어뜨리지 않게 유의하세요.
+datasets/kss/4/4_5615.wav|몸매를 유지하는 비결이 뭔가요?
+datasets/kss/4/4_5616.wav|의사 말로는 저한테 남은 시간이 육 개월이래요.
+datasets/kss/4/4_5617.wav|사람의 육체는 언젠가 죽지만, 정신은 영원한 거예요.
+datasets/kss/4/4_5618.wav|육체적 고통은 얼마든지 이겨 낼 수 있습니다.
+datasets/kss/4/4_5619.wav|군대는 육군과 공군, 해군으로 이루어진다.
+datasets/kss/4/4_5620.wav|마라톤은 육상의 꽃이다.
+datasets/kss/4/4_5621.wav|일 분은 왜 백 초가 아니고 육십 초일까?
+datasets/kss/4/4_5622.wav|유머는 스트레스를 해소하는 좋은 방법입니다.
+datasets/kss/4/4_5623.wav|부산은 국제 영화 축제로 유명해요.
+datasets/kss/4/4_5624.wav|올해는 유난히 봄이 늦어요.
+datasets/kss/4/4_5625.wav|유능한 인재를 뽑는 것보다 더 중요한 일은 없어요.
+datasets/kss/4/4_5626.wav|우리는 유럽 시장에 진출할 계획입니다.
+datasets/kss/4/4_5627.wav|깨진 유리 조각에 손가락을 벴어요.
+datasets/kss/4/4_5628.wav|아드님이 친구들과 야구를 하다 유리창을 깼어요.
+datasets/kss/4/4_5629.wav|일찍 신청하는 사람이 유리할 거야.
+datasets/kss/4/4_5630.wav|이 두 소설은 줄거리가 유사해요.
+datasets/kss/4/4_5631.wav|올해 유월은 유난히 쌀쌀해요.
