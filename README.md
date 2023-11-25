@@ -81,10 +81,36 @@ python train.py -c configs/ja.json -m ja
 See [inference.ipynb](inference.ipynb)
 
 
+
+## Japanese to Lanaguage List
+|Country|Language Code (ISO 639-1)|
+|---|---|
+|Korean|KO|
+|Japanese|JA|
+|English|EN|
+|Indonesian|ID|
+|Vietnamese|VI|
+|Russian|RU|
+|Turkish|TR|
+|Spainish|ES|
+|Portugese|PT|
+|Italian|IT|
+|Poland|PO|
+|German|DE|
+|Dutch|NL|
+|Ukrainian|UK|
+|Swedish|SV|
+|Czech|CS|
+|Finnish|FI|
+|Latin|LA|
+|Hungarian|HU|
+
+
+
 ## Inference Samples
 Also, You can listen samples
 
-[sample1](sample_wav/sample.wav)
+[sample1_multilingual](sample_wav/sample.wav)
 ```
 [KO]안녕하세요. 만나서 반가워요...[KO]
 [JA]こんにちは. お会いできて嬉しいです...[JA]
@@ -107,7 +133,7 @@ Also, You can listen samples
 [HU]Helló. örvendek...[HU]
 ```
 
-[sample2](sample_wav/sample2.wav)
+[sample2_korean](sample_wav/sample2.wav)
 ```
 훈민정음해례본은 세종이 직접 서문을 쓰고, 정인지를 비롯한 신하들에게 글자에 대한 설명을 적게 한 것으로, 1940년 안동에서 발견되었다.
 즉 이 책이 발견됨으로써 한글이 얼마나 과학적인 원리로 만들어졌는지 밝혀지게 된 것이다. 
@@ -122,3 +148,7 @@ For more information, please refer to the following repositories:
 - [jaywalnut310/vits](https://github.com/jaywalnut310/vits.git)
 - [MasayaKawamura/MB-iSTFT-VITS](https://github.com/MasayaKawamura/)
 - [Kyubyong/g2pK](https://github.com/Kyubyong/g2pK)
+
+---
+## Blog
+https://blog.naver.com/powerapollon/223273971447
