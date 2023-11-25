@@ -31,7 +31,7 @@ git clone https://github.com/kdrkdrkdr/JA2ML-VITS.git
 
 4. **Navigate to the cloned directory:**
 ```sh
-cd JK-VITS
+cd JA2ML-VITS
 ```
 
 5. **Install the necessary dependencies:**
@@ -61,9 +61,17 @@ python preprocess.py --filelists filelists/train.txt filelists/val.txt
 ---
 ## Training Exmaple
 
-You have to download [pretrained_model](https://github.com/kdrkdrkdr/JA2ML-VITS/releases) first to finetuning.
-put
+You have to download [pretrained_model](https://github.com/kdrkdrkdr/JA2ML-VITS/releases) first to finetuning. and move pretrained models like this.
+```
+JA2ML-VITS
+├─logs
+     ├─model_name
+          ├─G_0.pth
+          ├─D_0.pth
+          ...
+```
 
+Train with train.py
 ```sh
 python train.py -c configs/ja.json -m ja
 ```
