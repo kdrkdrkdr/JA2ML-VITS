@@ -71,7 +71,7 @@ JA2ML-VITS
           ...
 ```
 
-Train with train.py
+Train with train.py (train 1500steps.)
 ```sh
 python train.py -c configs/ja.json -m ja
 ```
