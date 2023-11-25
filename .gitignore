@@ -1,5 +1,6 @@
 datasets/
-logs/
+logs/ja/
+logs/pretrained/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

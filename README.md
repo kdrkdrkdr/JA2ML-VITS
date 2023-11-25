@@ -58,10 +58,12 @@ python preprocess.py --filelists filelists/train.txt filelists/val.txt
 ```
 
 
-- You can download and use [pretrained_model](https://github.com/kdrkdrkdr/JK-VITS/releases) to finetuning.
-
 ---
 ## Training Exmaple
+
+You have to download [pretrained_model](https://github.com/kdrkdrkdr/JA2ML-VITS/releases) first to finetuning.
+put
+
 ```sh
 python train.py -c configs/ja.json -m ja
 ```
