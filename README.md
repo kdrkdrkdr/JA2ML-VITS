@@ -110,11 +110,7 @@ See [inference.ipynb](inference.ipynb)
 ## Inference Samples
 Also, You can listen samples
 
-[sample1_multilingual]
-https://github.com/kdrkdrkdr/JA2ML-VITS/assets/49074597/535430b5-851b-4fac-bfd5-c4a836df948b
-
-
-
+[sample1_multilingual](sample_wav/sample.wav)
 ```
 [KO]안녕하세요. 만나서 반가워요...[KO]
 [JA]こんにちは. お会いできて嬉しいです...[JA]
@@ -138,9 +134,6 @@ https://github.com/kdrkdrkdr/JA2ML-VITS/assets/49074597/535430b5-851b-4fac-bfd5-
 ```
 
 [sample2_korean](sample_wav/sample2.wav)
-https://github.com/kdrkdrkdr/JA2ML-VITS/assets/49074597/190aef45-1166-46b0-ad1b-26c66427ec36
-
-
 ```
 훈민정음해례본은 세종이 직접 서문을 쓰고, 정인지를 비롯한 신하들에게 글자에 대한 설명을 적게 한 것으로, 1940년 안동에서 발견되었다.
 즉 이 책이 발견됨으로써 한글이 얼마나 과학적인 원리로 만들어졌는지 밝혀지게 된 것이다. 
@@ -157,5 +150,5 @@ For more information, please refer to the following repositories:
 - [Kyubyong/g2pK](https://github.com/Kyubyong/g2pK)
 
 ---
-## Blog
+## Dev blog
 https://blog.naver.com/powerapollon/223273971447
